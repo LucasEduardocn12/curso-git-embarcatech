@@ -8,3 +8,7 @@ git commit -m "nome e matricula"
 git remote add origin https://github.com/LucasEduardocn12/curso-git-embarcatech.git
 git branch -M master
 git push -u origin master
+git add comandos_usados.txt
+git commit -m "comandos_usados"
+git branch -M master
+git push -u origin master
