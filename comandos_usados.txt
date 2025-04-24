@@ -1,0 +1,10 @@
+mkdir embarcatech-git
+cd embarcatech-git
+git init
+git config user.name "Lucas Eduardo"
+git config user.email "lucaseduardocn12@gmail.com"
+git add nome_e_matricula.txt
+git commit -m "nome e matricula"
+git remote add origin https://github.com/LucasEduardocn12/curso-git-embarcatech.git
+git branch -M master
+git push -u origin master
